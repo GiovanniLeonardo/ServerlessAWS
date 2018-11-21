@@ -15,4 +15,4 @@ Working App: https://s3.amazonaws.com/serverlessmovie/working-movie-app.html
 * You can also add a new movie, then click "Add a Movie Bro" to add to the meu, then click on it to show movie info
 
 # Screencastify recording
-[![Watch the video](awsAppscreenShot.webm)]
+[![Watch the video](awsAppscreenShot.webm)](https://github.com/GiovanniLeonardo/ServerlessAWS/blob/master/awsAppscreenShot.webm)
