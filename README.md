@@ -7,9 +7,8 @@
 * Dynamo DB
 * API Gateway
 * S3
-
-![Working Application](aws.png)
-** Working App: https://s3.amazonaws.com/serverlessmovie/working-movie-app.html
+* ![Working Application](aws.png)
+Working App: https://s3.amazonaws.com/serverlessmovie/working-movie-app.html
 
 ### Movie Search Functionality
 * Click on any movie name to display the JSON info
